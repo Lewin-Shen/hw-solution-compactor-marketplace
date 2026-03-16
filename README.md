@@ -24,6 +24,12 @@ Give it a homework solutions PDF and it will:
 Add this marketplace to Claude Code:
 
 ```
+/plugin marketplace add https://github.com/Lewin-Shen/hw-solution-compactor-marketplace.git
+```
+
+Or if you have SSH keys configured:
+
+```
 /plugin marketplace add Lewin-Shen/hw-solution-compactor-marketplace
 ```
 
