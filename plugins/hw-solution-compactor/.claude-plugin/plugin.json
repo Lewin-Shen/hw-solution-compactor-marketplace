@@ -1,0 +1,10 @@
+{
+  "name": "hw-solution-compactor",
+  "description": "Compact homework problems and solutions into dense, space-efficient PDF reference sheets via LaTeX. Perfect for exam cheat sheet prep.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lewin"
+  },
+  "license": "MIT",
+  "keywords": ["homework", "cheatsheet", "latex", "pdf", "exam-prep", "compactor", "study", "solutions"]
+}

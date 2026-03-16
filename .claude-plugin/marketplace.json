@@ -1,0 +1,19 @@
+{
+  "name": "hw-solution-compactor-marketplace",
+  "owner": {
+    "name": "Lewin-Shen"
+  },
+  "metadata": {
+    "description": "A Claude plugin that compacts homework solutions into dense, space-efficient PDF cheat sheets via LaTeX."
+  },
+  "plugins": [
+    {
+      "name": "hw-solution-compactor",
+      "source": "./plugins/hw-solution-compactor",
+      "description": "Compact homework problems and solutions into dense PDF reference sheets via LaTeX. Perfect for exam cheat sheet prep.",
+      "version": "1.0.0",
+      "keywords": ["homework", "cheatsheet", "latex", "pdf", "exam-prep", "compactor", "study", "solutions"],
+      "category": "education"
+    }
+  ]
+}
